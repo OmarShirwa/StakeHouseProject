@@ -86,8 +86,6 @@ it opens the record file, and displays all the data in it.
 
 if the user selected the choice number 5, then it opens the "order.txt" file and displays the order data.
 
-     -------------------------- I think that's it for Administration ------------------------------------------
-
 In the Customer Function, it asks the user to choice betwenn vegetarian and Non-vegetarian. 
 
 if the user chooses the vegetarian option, then it runs the "vegetarain" function, In this function,
